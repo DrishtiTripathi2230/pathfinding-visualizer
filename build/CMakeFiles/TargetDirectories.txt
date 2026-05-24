@@ -1,3 +1,0 @@
-C:/Users/Drishti/Desktop/projectss/pathfinding_visualizer/build/CMakeFiles/PathfindingVisualizer.dir
-C:/Users/Drishti/Desktop/projectss/pathfinding_visualizer/build/CMakeFiles/edit_cache.dir
-C:/Users/Drishti/Desktop/projectss/pathfinding_visualizer/build/CMakeFiles/rebuild_cache.dir
